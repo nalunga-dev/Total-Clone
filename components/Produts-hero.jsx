@@ -5,11 +5,11 @@ import Link from "next/link";
 import { X, ChevronRight } from "lucide-react";
 
 const menuItems = [
+  { label: "Shop & Food Services", path: "/Food" },
   { label: "Excellium Fuels", path: "/products/excellium-fuels" },
   { label: "TotalEnergies Card", path: "/services/totalenergies-card" },
   { label: "TotalEnergies Gas", path: "/products/totalenergies-gas" },
   { label: "Lubricants", path: "/products/lubricants" },
-  { label: "Shop & Food Services", path: "/Food" },
   { label: "Solar Products", path: "/products/solar" },
   { label: "Promotions and Campaigns", path: "/promotions" },
 ];

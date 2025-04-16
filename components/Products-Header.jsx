@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { ChevronRight, Home } from "lucide-react";
 import Link from "next/link";
 
